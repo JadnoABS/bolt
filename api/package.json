@@ -1,0 +1,23 @@
+{
+  "name": "wearable",
+  "version": "1.0.0",
+  "description": "API para a comunicacao entre wearable e banco de dados para o projeto da materia Computacao Fisica e Aplicacoes",
+  "main": "src/index.js",
+  "author": "Jadno Barbosa",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0",
+    "sequelize": "^6.25.8",
+    "sequelize-cli": "^6.5.2"
+  }
+}
