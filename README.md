@@ -22,6 +22,9 @@ Para o fechamento da tornozeleira foi escolhido o velcro por possibilitar um aju
 Para o desenvolvimento da palmilha com a funcionalidade de gerar energia, foi usado uma placa de PVC para dar sustentabilidade às pastilhas  piezoelétricas e uma parte do circuito, o material foi escolhido por ter a rigidez necessária para o apoio das pastilhas mas ao mesmo tempo  ainda ter a  flexibilidade necessária para  não causar machucados ou incômodo durante o uso. 
 Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de tênis Tam 42 e dispostas uma sobre a outra para formar uma palmilha única com a placa de pvc interna. 
 
+<img src="images/tornozeleira.jpg" alt="drawing" width="400"/>
+<img src="images/tornozeleira2.jpg" alt="drawing" width="400"/>
+
 <h4>Precificação do Acelerômetro e Palmilha </h4>
 
 <p> Preço ( Acelerômetro) 
