@@ -13,5 +13,38 @@ A palmilha do Bolt possui um circuito formado por 6 pastilhas piezoelétricas li
 
 # Visualização e armazenamento dos dados
 Os dados coletados pelo Bolt são transmitidos para o aparelho celular do atleta via bluetooth e poderão ser vistos por meio do aplicativo do Bolt. Assim que os dados chegam no app, eles são salvos na conta do atleta por meio da API com a qual o app se comunica.
-![alt text](images/20221202_151446.jpg)
-![alt text](images/20221202_151509.jpg)
+<img src="images/circuito1.jpg" alt="drawing" width="200"/>
+<img src="images/circuito2.jpg" alt="drawing" width="200"/>
+<img src="images/circuito3.jpg" alt="drawing" width="200"/>
+
+<h3>Materiais e Métodos: </h3>
+
+Para o desenvolvimento do projeto da tornozeleira<b> Bolt </b>, com medição de aceleração, foi necessário a utilização do tecido Neoprene, a escolha foi devido às propriedades do tecido como impermeabilidade, proteção térmica, resistência e maleabilidade. Propriedades essas, que são essenciais para o desenvolvimento eficaz da tornozeleira, já que a mesma precisa de um revestimento impermeável e resistente, por exemplo, para proteção dos componentes elétricos internos (Ex: microcontrolador, acelerômetro). Além disso, por se tratar de um produto desenvolvido para pessoas que praticam esportes, o tecido de escolha precisa ter propriedade de regulação térmica para não prejudicar o usuário na durante o uso. 
+Para o fechamento da tornozeleira foi escolhido o velcro por possibilitar um ajuste ao tornozelo mais eficiente e se adaptar melhor a variação de tamanhos. 
+Para o desenvolvimento da palmilha com a funcionalidade de gerar energia, foi usado uma placa de PVC para dar sustentabilidade às pastilhas  piezoelétricas e uma parte do circuito, o material foi escolhido por ter a rigidez necessária para o apoio das pastilhas mas ao mesmo tempo  ainda ter a  flexibilidade necessária para  não causar machucados ou incômodo durante o uso. 
+Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de tênis Tam 42 e dispostas uma sobre a outra para formar uma palmilha única com a placa de pvc interna. 
+
+<h4>Precificação do Acelerômetro e Palmilha </h4>
+
+<p> Preço ( Acelerômetro) 
+
+Acelerômetro : R$15,00 <br>
+Microcontrolador: 44,00 <br>
+Velcro: 1,00 <br>
+Neoprene: 8,00 <br>
+
+<b>Preço total: 68,00 </b> <br>
+
+Preço Palmilha <br>
+
+
+Pastilhas Piezoelétricas: 6,00<br>
+EVA: 1,00<br>
+Chapa PVC: 10,00<br>
+Powerbank: 20,00<br>
+
+   <b> Preço Total : 37,00</b>
+
+</p>
+
+
