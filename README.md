@@ -13,9 +13,7 @@ A palmilha do Bolt possui um circuito formado por 6 pastilhas piezoelétricas li
 
 # Visualização e armazenamento dos dados
 Os dados coletados pelo Bolt são transmitidos para o aparelho celular do atleta via bluetooth e poderão ser vistos por meio do aplicativo do Bolt. Assim que os dados chegam no app, eles são salvos na conta do atleta por meio da API com a qual o app se comunica.
-<img src="images/circuito1.jpg" alt="drawing" width="200"/>
-<img src="images/circuito2.jpg" alt="drawing" width="200"/>
-<img src="images/circuito3.jpg" alt="drawing" width="200"/>
+<img src="images/circuito2.jpg" alt="drawing" width="400"/>
 
 <h3>Materiais e Métodos: </h3>
 
@@ -37,14 +35,20 @@ Neoprene: 8,00 <br>
 
 Preço Palmilha <br>
 
-
 Pastilhas Piezoelétricas: 6,00<br>
 EVA: 1,00<br>
 Chapa PVC: 10,00<br>
 Powerbank: 20,00<br>
-
    <b> Preço Total : 37,00</b>
-
 </p>
 
 
+# Considerações finais
+
+Tanto a tornozeleira quanto a palmilha precisam de ajustes e adaptações para que se tornem mais comerciais.
+
+Pontos de melhoria:
+- Case de plástico para melhor acomodação do acelerômetro  e do microcontrolador.
+- Bateria deve ser menor para maior conforto do usuário final.
+- Palmilha deve ser dupla e menos grossa para melhorar a usabilidade.
+- Acelerômetro precisa passar por mais calibrações para obter dados mais precisos.
