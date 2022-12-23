@@ -28,9 +28,9 @@ Sendo assim, com base nos dados conseguimos entender que a falta de acesso à en
 # Solução
 O Bolt consiste em duas partes, a tornozeleira inteligente, a qual conta com um microcontrolador ESP32 e um acelerômetro (inserir modelo do acelerometro), e a palmilha geradora de energia, a qual possui um circuito de pastilhas piezoelétricas e uma bateria recarregável.
 
-## Tornozeleira Inteligente
+# Tornozeleira Inteligente
 
-## Palmilha geradora
+# Palmilha geradora
 A palmilha do Bolt possui um circuito formado por 6 pastilhas piezoelétricas ligadas em paralelo e conectadas a uma ponte de diodo, a saída desse circuito leva corrente a uma bateria recarregável a qual alimenta a tornozeleira.
 
 
@@ -52,8 +52,28 @@ Para o desenvolvimento da palmilha com a funcionalidade de gerar energia, foi us
 
 Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de tênis tamanho 42 ( sendo 2 inteiras e 2 com um corte na parte posterior para encaixar o molde de PVC) e dispostas uma sobre a outra para formar uma palmilha única com a placa de pvc interna. <br>
 
-<img src="images/tornozeleira.jpeg" alt="drawing" width="300"/> <br> 
+<img src="images/Palmilha.jpg" alt="drawing" width="300"/> <br> 
 
+# Moldes 
+
+**Pulseira da tornozeleira**
+
+<br>
+
+<img src="images/Moldepulseira.png" alt="drawing" width="500"/> <br> <br>
+
+**Case da Tornozeleira**<br>
+
+<img src="images/moldecasetorno.png" alt="drawing" width="500"/> <br> <br>
+
+**Case da Bateria**
+
+<img src="images/Moldecasebateria.png" alt="drawing" width="500"/> <br> <br>
+
+**Palmilhas**
+
+<img src="images/Molde_palmilha.png" alt="drawing" width="500"/> <br> <br>
+ 
 
 # Precificação do Acelerômetro e Palmilha
 
@@ -98,14 +118,15 @@ Pontos de melhoria:
 - Acelerômetro precisa passar por mais calibrações para obter dados mais precisos.
 
 # Referências
-- http://repositorio.aee.edu.br/bitstream/aee/1476/1/GERAÇÃO DE ENERGIA ATRAVÉS DA PIEZOELETRECIDADE.pdf
-- https://www.youtube.com/watch?v=Uc4CD1aEFwE
-- https://www.instructables.com/Electricity-Generating-Footwear/
-- https://razoesparaacreditar.com/tenis-gera-energia-limpa-ba/
+
 - INFOMONEY. Classes D e E continuarão a ser mais da metade da população até 2024, projeta consultoria. Disponível em: https://www.infomoney.com.br/minhas-financas/classes-d-e-e-continuarao-a-ser-mais-da-metade-da-populacao-ate-2024-projeta-consultoria/. Acesso em: 10 dez. 2022.<br>
 - PISTOR, Emily. A DESIGUALDADE DAS CONDIÇÕES SOCIOECONÔMICAS DOS ATLETAS DE ALTO RENDIMENTO DA MARCHA ATLÉTICA BRASILEIRA. 2020. 116 f. TCC (Graduação) - Curso de Curso de Graduação em Ciências Econômicas, Ufsc, Florianópolis, 2021.<br>
 - DIEESE. As tarifas de energia elétrica no Brasil: sistemática de correção e evolução dos valores. Departamento Intersindical de estatística e estudos socioeconômicos. Nota técnica Número 58. Dez. de 2007.<br>
 - NERIS, Alessandra. Cresce procura das classes C e D por energia solar. 2021. Disponível em: https://www.aldo.com.br/blog/cresce-procura-das-classes-c-e-d-por-energia-solar/. Acesso em: 10 dez. 2022.<br>
 - WEPICK. Tecido Neoprene: tudo o que você precisa saber sobre. Disponível em: https://www.webpic.com.br/blog/producao/tecido-neoprene-tudo-o-que-voce-precisa-saber-sobre. Acesso em: 8 dez. 2022.
+- http://repositorio.aee.edu.br/bitstream/aee/1476/1/GERAÇÃO DE ENERGIA ATRAVÉS DA PIEZOELETRECIDADE.pdf
+- https://www.youtube.com/watch?v=Uc4CD1aEFwE
+- https://www.instructables.com/Electricity-Generating-Footwear/
+- https://razoesparaacreditar.com/tenis-gera-energia-limpa-ba/
 
 
