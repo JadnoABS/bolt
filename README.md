@@ -35,7 +35,7 @@ A palmilha do Bolt possui um circuito formado por 6 pastilhas piezoelétricas li
 
 
 # Visualização e armazenamento dos dados
-Os dados coletados pelo Bolt são transmitidos para o aparelho celular do atleta via bluetooth e poderão ser vistos por meio do aplicativo do Bolt. Assim que os dados chegam no app, eles são salvos na conta do atleta por meio da API com a qual o app se comunica.
+Os dados coletados pelo Bolt são transmitidos para o aparelho celular do atleta via bluetooth e poderão ser vistos por meio do aplicativo do Bolt. Assim que os dados chegam no app, eles são salvos na conta do atleta por meio da API com a qual o app se comunica.<br><br>
 <img src="images/circuito2.jpg" alt="drawing" width="400"/>
 
 <h3>Materiais e Métodos: </h3>
