@@ -60,15 +60,15 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 
 <br>
 
-<img src="images/Moldepulseira.png" alt="drawing" width="500"/> <br> <br>
+<img src="images/Moldepulseira.png" alt="drawing" width="700"/> <br> <br>
 
 **Case da Tornozeleira**<br>
 
-<img src="images/moldecasetorno.png" alt="drawing" width="500"/> <br> <br>
+<img src="images/moldecasetorno.png" alt="drawing" width="700"/> <br> <br>
 
 **Case da Bateria**
 
-<img src="images/Moldecasebateria.png" alt="drawing" width="500"/> <br> <br>
+<img src="images/Moldecasebateria.png" alt="drawing" width="700"/> <br> <br>
 
 **Palmilhas**
 
