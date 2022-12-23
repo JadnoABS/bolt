@@ -55,3 +55,9 @@ Pontos de melhoria:
 - Bateria deve ser menor para maior conforto do usuário final.
 - Palmilha deve ser dupla e menos grossa para melhorar a usabilidade.
 - Acelerômetro precisa passar por mais calibrações para obter dados mais precisos.
+
+# Referências
+- http://repositorio.aee.edu.br/bitstream/aee/1476/1/GERAÇÃO DE ENERGIA ATRAVÉS DA PIEZOELETRECIDADE.pdf
+- https://www.youtube.com/watch?v=Uc4CD1aEFwE
+- https://www.instructables.com/Electricity-Generating-Footwear/
+- https://razoesparaacreditar.com/tenis-gera-energia-limpa-ba/
