@@ -52,6 +52,7 @@ Para o desenvolvimento da palmilha com a funcionalidade de gerar energia, foi us
 
 Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de tênis tamanho 42 ( sendo 2 inteiras e 2 com um corte na parte posterior para encaixar o molde de PVC) e dispostas uma sobre a outra para formar uma palmilha única com a placa de pvc interna. <br>
 
+<img src="images/tornozeleira.jpeg" alt="drawing" width="300"/> <br> 
 
 
 # Precificação do Acelerômetro e Palmilha
@@ -64,7 +65,7 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 - Neoprene: 8,00 <br>
 - Fios: 1,00 <br>
 
-- <b>Custo Bruto Total: 69,00 </b> <br>
+- <b>Custo Bruto Total: R$ 69,00 </b> <br>
 
 <b>Preço Palmilha</b> <br>
 
@@ -74,9 +75,9 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 - Powerbank: 20,00<br>
 - Fios: 1,00 <br>
 
-- ** Custo Bruto Total : 38,00 ** <br>
+- <b> Custo Bruto Total : R$ 38,00 </b> <br>
 
-***Custo Bruto Total palmilha + tornozeleira : 107,00*** <br>
+***Custo Bruto Total palmilha + tornozeleira : R$ 107,00*** <br>
 
  <h3>Custo de mercado de Produtos Similares</h3><br>
 <p>
