@@ -81,19 +81,19 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 
 | Acelerômetro | Microcontrolador | Velcro | Neoprene | Fios |
 |--- |--- |--- |--- |--- |
-| R$ 15,00 | R$ 44,00 | R$ 1,00 |R$ 8,00 |R$ 1,00 |
+| R$ 15,00 | R$ 44,00 | R$ 1,00 |R$ 8,00 |R$ 5,00 |
 
-- <b>Custo Bruto Total: R$ 69,00 </b> <br>
+- <b>Custo Bruto Total: R$ 73,00 </b> <br>
 
 <b>Preço Palmilha</b> <br>
 
 | Pastilhas Piezoelétricas | EVA | Chapa PVC | Powerbank | Fios |
 |--- |--- |--- |--- |--- |
-| R$ 6,00 | R$ 1,00 | R$ 10,00 |R$ 20,00 |R$ 1,00 |
+| R$ 6,00 | R$ 1,00 | R$ 10,00 |R$ 20,00 |R$ 5,00 |
 
-- <b> Custo Bruto Total : R$ 38,00 </b> <br>
+- <b> Custo Bruto Total : R$ 42,00 </b> <br>
 
-***Custo Bruto Total palmilha + tornozeleira : R$ 107,00*** <br>
+***Custo Bruto Total palmilha + tornozeleira : R$ 115,00*** <br>
 
  <h3>Custo de mercado de Produtos Similares</h3><br>
 <p>
