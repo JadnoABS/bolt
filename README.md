@@ -100,7 +100,7 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 
 ***Custo Bruto Total palmilha + tornozeleira : R$ 115,00*** <br>
 
-**Os preços foram calculados de acordo com a quantidade usada para montar o kit todo constituído pela Tornozeleira + Palmilha**
+**Os preços foram calculados de acordo com a quantidade usada para montar 1 unidade de cada produto**
 
  <h3>Custo de mercado de Produtos Similares</h3><br>
 <p>
