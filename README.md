@@ -38,7 +38,7 @@ A palmilha do Bolt possui um circuito formado por 6 pastilhas piezoelétricas li
 Os dados coletados pelo Bolt são transmitidos para o aparelho celular do atleta via bluetooth e poderão ser vistos por meio do aplicativo do Bolt. Assim que os dados chegam no app, eles são salvos na conta do atleta por meio da API com a qual o app se comunica.<br><br>
 <img src="images/circuito2.jpg" alt="drawing" width="400"/>
 
-<h3>Materiais e Métodos: </h3>
+# Materiais e Métodos
 
 Para o desenvolvimento do projeto da tornozeleira<b> Bolt </b>, com medição de aceleração, foi necessário a utilização do tecido Neoprene, a escolha foi devido às propriedades do tecido como impermeabilidade, proteção térmica, resistência e maleabilidade. Propriedades essas, que são essenciais para o desenvolvimento eficaz da tornozeleira, já que a mesma precisa de um revestimento impermeável e resistente, por exemplo, para proteção dos componentes elétricos internos (Ex: microcontrolador, acelerômetro). Além disso, por se tratar de um produto desenvolvido para pessoas que praticam esportes, o tecido de escolha precisa ter propriedade de regulação térmica para não prejudicar o usuário na durante o uso.(WEPICK, 2022) <br>
 
@@ -60,7 +60,7 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 
 <br>
 
-<img src="images/Moldepulseira.png" alt="drawing" width="700"/> <br> <br>
+<img src="images/molde_pulseira.png" alt="drawing" width="700"/> <br> <br>
 
 **Case da Tornozeleira**<br>
 
@@ -77,23 +77,19 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 
 # Precificação do Acelerômetro e Palmilha
 
-<b> Preço ( Acelerômetro) </b>
+<b>Preço ( Acelerômetro)</b><br>
 
-- Acelerômetro : R$15,00 <br>
-- Microcontrolador: 44,00 <br>
-- Velcro: 1,00 <br>
-- Neoprene: 8,00 <br>
-- Fios: 1,00 <br>
+| Acelerômetro | Microcontrolador | Velcro | Neoprene | Fios |
+|--- |--- |--- |--- |--- |
+| R$ 15,00 | R$ 44,00 | R$ 1,00 |R$ 8,00 |R$ 1,00 |
 
 - <b>Custo Bruto Total: R$ 69,00 </b> <br>
 
 <b>Preço Palmilha</b> <br>
 
-- Pastilhas Piezoelétricas: 6,00<br>
-- EVA: 1,00<br>
-- Chapa PVC: 10,00<br>
-- Powerbank: 20,00<br>
-- Fios: 1,00 <br>
+| Pastilhas Piezoelétricas | EVA | Chapa PVC | Powerbank | Fios |
+|--- |--- |--- |--- |--- |
+| R$ 6,00 | R$ 1,00 | R$ 10,00 |R$ 20,00 |R$ 1,00 |
 
 - <b> Custo Bruto Total : R$ 38,00 </b> <br>
 
@@ -101,8 +97,8 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 
  <h3>Custo de mercado de Produtos Similares</h3><br>
 <p>
-- Acelerômetro TGFORCE 3D - R$2.499,00 <a href="https://loja.maxrecovery.com.br/acelerometro-tgforce-3d/p">(Clique e acesse o produto)</a><br>
-- Garmin Smartwatch Vivoactive 4 GPS - R$ 2.118,00 <a href="https://www.amazon.com.br/Rel%C3%B3gio-Inteligente-Garmin-Vivoactive-Smartwatch/dp/B07W7W8WBH">(Clique e acesse o produto)</a><br>
+- Acelerômetro TGFORCE 3D - R$2.499,00 <a href="https://loja.maxrecovery.com.br/acelerometro-tgforce-3d/p">(Clique e acesse o produto)</a><br><br>
+- Garmin Smartwatch Vivoactive 4 GPS - R$ 2.118,00 <a href="https://www.amazon.com.br/Rel%C3%B3gio-Inteligente-Garmin-Vivoactive-Smartwatch/dp/B07W7W8WBH">(Clique e acesse o produto)</a><br><br>
 - Acelerometro Running Dynamics Pod Garmin Fenix 5 Plus 735XT 935 Quatix 5 - R$779,00 <a href="https://www.netshoes.com.br/acelerometro-running-dynamics-pod-garmin-fenix-5-plus-735xt-935-quatix-5-verde+cinza-412-2206-430">(Clique e acesse o produto)</a>
     </p>
 
