@@ -30,6 +30,10 @@ O Bolt consiste em duas partes, a tornozeleira inteligente, a qual conta com um 
 
 # Tornozeleira Inteligente
 
+A Tornozeleira Inteligente usa o sensor de aceleração com giroscópio para captar dados de aceleração do usuário durante uma corrida ou caminhada. Ela foi projetada para ser usada nos tornozelos para facilitar a conexão entre a palmilha geradora de energia, diminuindo as chances de mau funcionamento em ambos os produtos.<br>
+Além disso, verificamos que um concorrente referência no nicho - *Acelerômetro TGFORCE 3D* - tem um produto similar, com o uso nos tornozelos, reforçando a escolha do local. <br>
+
+
 # Palmilha geradora
 A palmilha do Bolt possui um circuito formado por 6 pastilhas piezoelétricas ligadas em paralelo e conectadas a uma ponte de diodo, a saída desse circuito leva corrente a uma bateria recarregável a qual alimenta a tornozeleira.
 
@@ -93,7 +97,10 @@ Para revestir a placa de PVC foram cortadas 4 camadas no formato de palmilhas de
 
 - <b> Custo Bruto Total : R$ 42,00 </b> <br>
 
+
 ***Custo Bruto Total palmilha + tornozeleira : R$ 115,00*** <br>
+
+**Os preços foram calculados de acordo com a quantidade usada para montar o kit todo constituído pela Tornozeleira + Palmilha**
 
  <h3>Custo de mercado de Produtos Similares</h3><br>
 <p>
