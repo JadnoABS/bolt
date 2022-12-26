@@ -36,11 +36,10 @@ Além disso, verificamos que um concorrente referência no nicho - *Acelerômetr
 
 # Palmilha geradora
 A palmilha do Bolt possui um circuito formado por 6 pastilhas piezoelétricas ligadas em paralelo e conectadas a uma ponte de diodo, a saída desse circuito leva corrente a uma bateria recarregável a qual alimenta a tornozeleira.
-
+<img src="images/circuito2.jpg" alt="drawing" width="400"/>
 
 # Visualização e armazenamento dos dados
-Os dados coletados pelo Bolt são transmitidos para o aparelho celular do atleta via bluetooth e poderão ser vistos por meio do aplicativo do Bolt. Assim que os dados chegam no app, eles são salvos na conta do atleta por meio da API com a qual o app se comunica.<br><br>
-<img src="images/circuito2.jpg" alt="drawing" width="400"/>
+Atualmente, o Bolt consegue medir o número de acelerações e desacelerações que o atleta faz durante o seu percurso, através de alguns limiares definidos internamente. Para ter acesso a esses dados, é preciso conectar o dispositivo a um hotspot WiFi e acessar o seu endereço IP por meio de outro dispositivo conectado a mesma rede. Além desses dados, nessa página também constam medidas referentes ao acelerômetro e giroscópio nos eixos X, Y e Z, que estão presentes no dispositvo Bolt.<br><br>
 
 # Materiais e Métodos
 
@@ -119,6 +118,7 @@ Pontos de melhoria:
 - Bateria deve ser menor para maior conforto do usuário final.
 - Palmilha deve ser dupla e menos grossa para melhorar a usabilidade.
 - Acelerômetro precisa passar por mais calibrações para obter dados mais precisos.
+- Desenvolvimento de aplicação em separado para permitir visualização de dados também via Bluetooth.
 
 # Referências
 
